@@ -1,0 +1,9 @@
+<package>
+    <!-- Documentation -->
+	<file>doc/context/third/title/README</file>
+	<file>doc/context/third/title/title-doc.pdf</file>
+	<!-- Source -->
+	<file>tex/context/third/title/t-title.mkvi</file>
+	<!-- Interface -->
+    <file>tex/context/interface/third/t-title.xml</file>
+</package>
